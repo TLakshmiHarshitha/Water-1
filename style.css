@@ -74,7 +74,7 @@
 }
 .footer a {
   text-decoration: none;
-  color: white;
+  color: darkblue;
 }
 
 @media (max-width: 576px) {
