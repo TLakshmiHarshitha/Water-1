@@ -11,7 +11,7 @@ body{
 }
 .nav a{
     text-decoration: none;
-    color: navy;
+    color: teal;
 }
 .gap{
     gap: 3rem;
