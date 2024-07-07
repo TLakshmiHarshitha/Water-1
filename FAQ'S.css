@@ -45,3 +45,6 @@ details[open].FAQs {
     display: none;
   }
 }
+.col-lg-6 col-sm-12 fs-6 text-light{
+  color: lightblue;
+}
