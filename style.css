@@ -70,12 +70,12 @@
   padding: 60px 0px 20px 0px;
 }
 .foot {
-  color:cubsblue;
+  color: navy;
   background-color: lightblue;
 }
 .footer a {
   text-decoration: none;
-  color: white;
+  color: navy;
 }
 
 @media (max-width: 576px) {
